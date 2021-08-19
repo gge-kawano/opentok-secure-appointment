@@ -43,12 +43,12 @@
           },
           "VUE_APP_VIDEO_CALL_LOGO_URL": {
             "description": "Your logo URL",
-            "value": "https://www.vonage.com/assets/images/logo-vonage.svg",
+            "value": "https://www.vonage.com/assets/images/logo-vonage.svg.bk",
             "required": false
           },
-          "VUE_APP_VIDEO_CALL_COMPANY_NAME": {
+          "": {
             "description": "Your company name",
-            "value": "VONAGE API VIDEO",
+            "value": "OST SCHEDULE SYSTEM",
             "required": false
           },
           "VUE_APP_AUDIO_ONLY": {
