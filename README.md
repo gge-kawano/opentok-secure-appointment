@@ -86,4 +86,4 @@ Open http://localhost:8080/booking in your browser.
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gge-kawano/vonage-roundtable))
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gge-kawano/opentok-secure-appointment))
