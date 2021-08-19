@@ -15,6 +15,7 @@ Create an appointment, name should be any String and date should be the appointm
 }
 ```
 
+
 Response:
 
 Will include two URLTokens: One for the host and one for the guest, those will be used to retrieve the session token
