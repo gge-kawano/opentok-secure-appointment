@@ -21,8 +21,8 @@
       return {
         /*companyName: process.env.VUE_APP_VIDEO_CALL_COMPANY_NAME,
         logo: process.env.VUE_APP_VIDEO_CALL_LOGO_URL,*/
-        companyName: 'GnGn',
-        logo: 'gngn-logo.png',
+        companyName: 'GnGn OST',
+        logo: '@/assets/gngn-logo.png',
         serverUrl: process.env.VUE_APP_API_SERVER_URL,
       };
     },
