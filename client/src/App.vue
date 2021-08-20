@@ -1,9 +1,9 @@
 <template>
   <div id="app">
-    <!-- <Header
+    <Header
       :company-name="companyName"
       :logo="logo"
-    /> -->
+    />
     <router-view :origin-api-url="originApiUrl" />
   </div>
 </template>
@@ -19,8 +19,10 @@
     },
     data: function() {
       return {
-        companyName: process.env.VUE_APP_VIDEO_CALL_COMPANY_NAME,
-        logo: process.env.VUE_APP_VIDEO_CALL_LOGO_URL,
+        /*companyName: process.env.VUE_APP_VIDEO_CALL_COMPANY_NAME,
+        logo: process.env.VUE_APP_VIDEO_CALL_LOGO_URL,*/
+        companyName: 'GnGn',
+        logo: 'gngn-logo.png',
         serverUrl: process.env.VUE_APP_API_SERVER_URL,
       };
     },
