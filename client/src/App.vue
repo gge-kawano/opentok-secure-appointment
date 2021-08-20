@@ -1,9 +1,9 @@
 <template>
   <div id="app">
-    <Header
+    <!-- <Header
       :company-name="companyName"
       :logo="logo"
-    />
+    /> -->
     <router-view :origin-api-url="originApiUrl" />
   </div>
 </template>
