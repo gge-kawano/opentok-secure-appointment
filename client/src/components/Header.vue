@@ -35,6 +35,7 @@ export default {
   .title {
     font-size: 18px;
     margin-left: 15px;
+    font-weight: bold;
   }
 }
 </style>
